@@ -1,9 +1,14 @@
 body {
+  background-color: blanchedalmond;
   text-align: center;
 }
 
-a {
+footer a {
   margin: 0 20px;
+}
+
+P {
+  display: block;
 }
 
 .croissant-photo {
